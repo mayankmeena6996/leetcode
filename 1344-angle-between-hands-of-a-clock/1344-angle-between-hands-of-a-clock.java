@@ -5,4 +5,4 @@ class Solution {
         double diff = Math.abs(hourAngle - minuteAngle);
         return Math.min(diff, 360 - diff);
     }
-}
+}//fhgsrysufdkjggggjhfgfdghjyt
